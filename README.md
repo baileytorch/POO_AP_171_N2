@@ -115,6 +115,10 @@ Para ejecutar la isntalación de todas las dependencias definidas previamente pa
   <pre><code>ppip install -r requirements.txt</code></pre>
 </p>
 
+<p>
+Este debiera ser el contenido del archivo <code>requirements.txt</code>, considerando que incluiremos sólo las librerías definidas para el proyecto:
+</p>
+
 <pre><code>mysql-connector-python
 prettytable
 python-dateutil
