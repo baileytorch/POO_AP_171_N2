@@ -109,6 +109,12 @@ Para implementar el proyecto de Programación Orientada a Objetos en Python, se 
 </ul>
 
 <h2>📂 Ejemplo de <code>requirements.txt</code></h2>
+
+<p>
+Para ejecutar la isntalación de todas las dependencias definidas previamente para cada proyecto, debemos crear un archivo <code>requirements.txt</code>, como el que se observa a continuación y luego, mediante el terminal, navegar hasta la ubicación del archivo, para ejecutar el siguiente comando:
+  <pre><code>ppip install -r requirements.txt</code></pre>
+</p>
+
 <pre><code>mysql-connector-python
 prettytable
 python-dateutil
